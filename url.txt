@@ -1,1 +1,1 @@
-{ "urls": [ { "url": "https://raw.githubusercontent.com/cygoy/tvbox/9bf36d8515c3e23fa22d37ded380db1af183bd7a/a001.asp", "name": "小苹果线路" }] }
+{ "urls": [ { "url": "https://raw.githubusercontent.com/cygoy/tvbox/9bf36d8515c3e23fa22d37ded380db1af183bd7a/a001.asp", "name": "小苹果线路" } ] }
