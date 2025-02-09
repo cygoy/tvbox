@@ -24,7 +24,7 @@
             "name": "木星｜影视",
             "type": 3,
             "api": "csp_AppSx",
-            "jar": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt;md5;fcd3be29030c912a28d7a205a88f749d",
+            "jar": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
