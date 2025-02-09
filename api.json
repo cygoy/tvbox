@@ -43,6 +43,14 @@
             "changeable":1,
             "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
         },
+        {
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳|影视",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/drpy2.min.js",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg.jar",
+            "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
+        },
     {
       "key": "木耳",
       "name": "木耳｜影视",
