@@ -32,6 +32,15 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
         },
         {
+            "key": "瓜子",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "客星",
             "name": "客星｜影视",
             "type": 3,
