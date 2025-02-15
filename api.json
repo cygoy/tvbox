@@ -32,6 +32,18 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
         },
         {
+            "key": "客星",
+            "name": "客星｜影视",
+            "type": 3,
+            "api": "csp_Xdai",
+            "jar": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable":1,
+            "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg=="
+        },
+        {
             "key": "木星",
             "name": "木星｜影视",
             "type": 3,
