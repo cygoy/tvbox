@@ -32,10 +32,11 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
         },
         {
-            "key": "欧乐",
+            "key": "Olevod",
             "name": "欧乐｜影视",
             "type": 3,
             "api": "csp_Olevod",
+            "jar":"http://121.199.23.234:8080/ipfs/QmcJ5UyYrRx4SkACmaNqPeR67UK6Bz7QNTxwmrZAt2Q17y?filename=custom.PNG;md5;d65f14e977a430da2b0d1d464884a840",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js",
             "ext2": "https://gist.githubusercontent.com/occupy-pluto/ce9bf8248a15acb87e6b55e382fb8e4b/raw/ole.js",
             "searchable": 1,
