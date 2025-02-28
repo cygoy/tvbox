@@ -32,18 +32,6 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
         },
         {
-            "key": "欧乐影院",
-            "name": "欧乐｜影视",
-            "type": 3,
-            "api": "csp_Olevod",
-            \\"jar":"http://124.223.100.38:3000/zhoupeng8324/Tvbox32/raw/master/pg.jar",
-            \\"ext": "http://124.223.100.38:3000/zhoupeng8324/Tvbox32/raw/f862b37b18253222234e8c7b69161dd02caf352f/lib/tokenm.json$$$null$$$proxy$$$1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable":1
-        },
-        {
             "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
