@@ -32,6 +32,20 @@
             "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
         },
         {
+            "key": "zj",
+            "name": "8K｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "ext": {
+                    "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+                    "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+                    }
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
