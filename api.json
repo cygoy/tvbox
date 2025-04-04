@@ -56,11 +56,11 @@
                     }
         },
         {
-            "key": "瓜子影视",
+            "key": "瓜子",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://7337.kstore.space/twvip/tvkj.jar",
+            "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
