@@ -56,11 +56,11 @@
                     }
         },
         {
-            "key": "csp_Gz360",
+            "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://github.com/MemoryCollection/IPTV/raw/refs/heads/main/api/spider.jar",
+            "jar": "https://7337.kstore.space/twvip/tvkj.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
