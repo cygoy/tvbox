@@ -56,11 +56,11 @@
                     }
         },
         {
-            "key": "瓜子",
+            "key": "csp_Gz360",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+            "jar": "https://github.com/MemoryCollection/IPTV/raw/refs/heads/main/api/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
