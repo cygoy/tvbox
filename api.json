@@ -60,7 +60,6 @@
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://7337.kstore.space/twvip/jar/tvkj.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
