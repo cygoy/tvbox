@@ -60,6 +60,7 @@
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
