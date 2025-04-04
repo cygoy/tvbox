@@ -20,11 +20,23 @@
             "filterable": 1
         },
         {
-            "key": "追剧仔弹幕",
-            "name": "追剧｜影视",
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳｜影视",
             "type": 3,
-            "api": "csp_Zjz",
-            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;d2ac87f70882f8f18f01dc9d8b616bde",
+            "api": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/drpy2.min.js",
+            "jar": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable":1,
+            "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
+        },
+        {
+            "key": "瓜子影视",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -42,16 +54,14 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_黑木耳资源",
-            "name": "木耳｜影视",
+            "key": "追剧仔弹幕",
+            "name": "追剧｜影视",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/drpy2.min.js",
-            "jar": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/pg.jar",
+            "api": "csp_Zjz",
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;d2ac87f70882f8f18f01dc9d8b616bde",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable":1,
-            "ext": "https://raw.githubusercontent.com/guot55/yg/refs/heads/main/lib/mr.js"
+            "filterable": 1
         },
         {
             "key": "zj",
@@ -66,16 +76,6 @@
                     "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
                     "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
                     }
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "客星",
