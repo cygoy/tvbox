@@ -24,13 +24,13 @@
             "key": "drpy_js_黑木耳资源",
             "name": "木耳｜影视",
             "type": 3,
-            "api": "https://github.com/cygoy/tvbox/raw/refs/heads/main/guot55/drpy2.min.js",
-            "jar": "https://github.com/cygoy/tvbox/raw/refs/heads/main/guot55/pg.jar",
+            "api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/guot55/drpy2.min.js",
+            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/guot55/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable":1,
-            "ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/guot55/mr.js"
+            "ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/guot55/mr.js"
         },
         {
             "key": "瓜子影视",
