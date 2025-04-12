@@ -92,7 +92,8 @@
             "key": "文才",
             "name": "文才｜影视",
             "type": 3,
-            "api": "csp_Jpys",
+            "api": "csp_JpysGuard",
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yAek22Qe.png",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
