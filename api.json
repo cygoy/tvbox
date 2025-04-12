@@ -11,11 +11,11 @@
             "filterable": 1
         },
         {
-            "key": "文采",
-            "name": "文采｜影视",
+            "key": "文才",
+            "name": "文才｜影视",
             "type": 3,
             "api": "csp_JpysGuard",
-            "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yAek22Qe.png",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -77,26 +77,6 @@
                     "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
                     "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
                     }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "文才",
-            "name": "文才｜影视",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/yAek22Qe.png",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
     ],
     "doh": [
