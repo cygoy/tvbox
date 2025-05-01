@@ -57,7 +57,7 @@
             "name": "玉米｜影视",
             "type": 3,
             "api": "csp_Xdai",
-            "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==",
             "searchable": 1,
             "quickSearch": 1,
