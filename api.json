@@ -11,6 +11,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_LiteApple",
+            "name": "苹果｜影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "文才",
             "name": "文才｜影视",
             "type": 3,
