@@ -31,11 +31,11 @@
             "filterable": 1
         },
         {
-            "key": "贱贱",
+            "key": "荐片",
             "name": "荐片｜影视",
             "type": 3,
-            "api": "csp_JPJGuard",
-            "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+            "api": "csp_JianpianGuard",
+            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png;md5;2cd1c8f1c55fcbbbde5ef2874d02c24e",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
