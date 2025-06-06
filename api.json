@@ -67,8 +67,8 @@
             "name": "玉米｜影视",
             "type": 3,
             "api": "csp_Xdai",
-            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==",
+            "jar": "https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY巧巧.jar",
+            "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
