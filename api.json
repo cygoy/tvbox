@@ -66,15 +66,9 @@
             "key": "玉米",
             "name": "玉米｜影视",
             "type": 3,
-            "api": "csp_AppGet",
-            "jar": "https://github.com/ls125781003/tvboxtg/raw/refs/heads/main/%E6%BD%87%E6%B4%92/spider.jar",
-            "ext": {
-                "url": "https://www.zjc.app",
-                "dataKey": "ab4e9a421675f14b",
-                "dataIv": "ab4e9a421675f14b",
-                "deviceId": "",
-                "version": "442"
-            },
+            "api": "csp_Xdai",
+            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
