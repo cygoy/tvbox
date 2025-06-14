@@ -98,17 +98,6 @@
                     "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
                     "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
                     }
-        },
-        {
-            "key": "Iktv",
-            "name": "KTV｜音乐",
-            "type": 3,
-            "api": "csp_WexIktvGuard",
-            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/wex.png;md5;9fd9df6ec2ad4b4b386680a8b6877dc9",
-            "searchable": 1,
-            //"quickSearch": 1,
-            //"filterable": 1,
-            "changeable": 0
         }
     ],
     "doh": [
