@@ -105,14 +105,14 @@
             "type": 1,
             "api": "https://huaren.live/api.php/tvbox",
             "jar": "https://git.acwing.com/kvymin/TVRule/-/raw/main/custom_spider.jar;md5;77d675fab02d67f80e31fab7723eb15d",
-            "playUrl": "json:https://parse.okhuaren.com/?url=",
+            "playUrl": "json:https://parse.okhuaren.com/?url=",            
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "header": {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
             "Referer": "test"
                       }
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
     ],
     "doh": [
