@@ -1,335 +1,335 @@
 {
-    "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-    "sites": [        
+  "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+  "sites": [
+    {
+      "key": "小苹果",
+      "name": "小苹果｜影视",
+      "type": 3,
+      "api": "csp_Xpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "苹果影视",
+      "name": "苹果｜影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "文才",
+      "name": "文才｜影视",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/y1A9pyXC.png;md5;6ad0cb349886b964fa6f26f0f8802d69",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "贱贱",
+      "name": "荐片｜影视",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_黑木耳资源",
+      "name": "木耳｜影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
+      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
+    },
+    {
+      "key": "瓜子",
+      "api": "csp_GuaziGuard",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/kGPgB2mV.png;md5;ffdd3bb260ab86a331c0f9ab6eab8095",
+      //"key": "瓜子影视",
+      //"api": "csp_Gz360",
+      //"jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
+      "name": "瓜子｜影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星河",
+      "api": "csp_AppGet",
+      "jar": "https://7337.kstore.space/twvip/tvkj.jar",
+      "ext": {
+        "url": "http://121.62.22.204:9876",
+        "dataKey": "f5e2tx53ykp6s2c9",
+        "dataIv": "f5e2tx53ykp6s2c9",
+        "deviceId": "",
+        "version": "361"
+      },
+      //"api": "csp_Xdai",
+      //"jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce",
+      //"ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk",
+      "name": "星河｜影视",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "玉米",
+      "name": "玉米｜影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+      "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zj",
+      "name": "8K｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+      "ext": {
+        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+      }
+    },
+    {
+      "key": "huarenoktv",
+      "name": "华人｜影视",
+      "type": 1,
+      "api": "https://huaren.live/api.php/tvbox",
+      "jar": "https://git.acwing.com/kvymin/TVRule/-/raw/main/custom_spider.jar;md5;77d675fab02d67f80e31fab7723eb15d",
+      "playUrl": "json:https://parse.okhuaren.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+        "Referer": "test"
+      }
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
         {
-            "key": "小苹果",
-            "name": "小苹果｜影视",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
         },
         {
-            "key": "苹果影视",
-            "name": "苹果｜影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
-            "key": "文才",
-            "name": "文才｜影视",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/y1A9pyXC.png;md5;6ad0cb349886b964fa6f26f0f8802d69",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
         },
         {
-            "key": "贱贱",
-            "name": "荐片｜影视",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
         },
         {
-            "key": "drpy_js_黑木耳资源",
-            "name": "木耳｜影视",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
-            "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable":1,
-            "ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
         },
         {
-            "key": "瓜子",
-            "api": "csp_GuaziGuard",
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/kGPgB2mV.png;md5;ffdd3bb260ab86a331c0f9ab6eab8095",
-            //"key": "瓜子影视",
-            //"api": "csp_Gz360",
-            //"jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
         },
         {
-            "key": "星河",
-            "api": "csp_AppGet",
-            "jar": "https://7337.kstore.space/twvip/tvkj.jar",
-            "ext": {
-  "url": "http://121.62.22.204:9876",
-  "dataKey": "f5e2tx53ykp6s2c9",
-  "dataIv": "f5e2tx53ykp6s2c9",
-  "deviceId": "",
-  "version": "361"
-}
-            //"api": "csp_Xdai",
-            //"jar": "http://cdn.qiaoji8.com/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce",
-            //"ext": "7lj763gg0939791954248jihg5529587lig9i654j59i326l5j5208hklg19161j139753h090539gig3g11h49gk3l21hl4hk637h53ghg6ikl2219j28lj76h8430kkkklj6hkl022272g8h5g69068hli583061k3l9373hk09hg9j79l31l43h06187l37j675lhkg57k511jk",
-            "name": "星河｜影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
         },
         {
-            "key": "玉米",
-            "name": "玉米｜影视",
-            "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
         },
         {
-            "key": "zj",
-            "name": "8K｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
-            "ext": {
-                    "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-                    "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-                    }
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
         },
         {
-            "key": "huarenoktv",
-            "name": "华人｜影视",
-            "type": 1,
-            "api": "https://huaren.live/api.php/tvbox",
-            "jar": "https://git.acwing.com/kvymin/TVRule/-/raw/main/custom_spider.jar;md5;77d675fab02d67f80e31fab7723eb15d",
-            "playUrl": "json:https://parse.okhuaren.com/?url=",            
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "header": {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-            "Referer": "test"
-                      }
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
-    ],
-    "doh": [
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
         {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
         },
         {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
         },
         {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
         },
         {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
-    ],
-    "ijk": [
-        {
-            "group": "软解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
-        },
-        {
-            "group": "硬解码",
-            "options": [
-                {
-                    "category": 4,
-                    "name": "opensles",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "overlay-format",
-                    "value": "842225234"
-                },
-                {
-                    "category": 4,
-                    "name": "framedrop",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "soundtouch",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "start-on-prepared",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "http-detect-range-support",
-                    "value": "0"
-                },
-                {
-                    "category": 1,
-                    "name": "fflags",
-                    "value": "fastseek"
-                },
-                {
-                    "category": 2,
-                    "name": "skip_loop_filter",
-                    "value": "48"
-                },
-                {
-                    "category": 4,
-                    "name": "reconnect",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "enable-accurate-seek",
-                    "value": "0"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-auto-rotate",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-handle-resolution-change",
-                    "value": "1"
-                },
-                {
-                    "category": 4,
-                    "name": "mediacodec-hevc",
-                    "value": "1"
-                },
-                {
-                    "category": 1,
-                    "name": "dns_cache_timeout",
-                    "value": "600000000"
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }
