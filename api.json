@@ -49,7 +49,7 @@
       
       "key": "vod_黑木耳4",
       "type": 4,
-      "api": "http://zhangqun66.com/225.php",
+      "api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/225.php",
       //"jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe"      
       "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/fm.jar"
       
