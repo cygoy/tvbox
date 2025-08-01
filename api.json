@@ -93,11 +93,6 @@
       //"api": "csp_Xdai",
       //"jar": "https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
       //"ext": "jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy",
-      "key": "vod_黑木耳4",
-      "name": "黑木耳5",
-      "type": 4,
-      "api": "http://zhangqun66.com/225.php",
-      "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -117,28 +112,35 @@
       }
     },
     {
-      "key": "黑木耳",
-      "name": "黑木耳｜影视",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",
+      
+      "name": "黑木耳｜影视",      
       "searchable": 1,
       "quickSearch": 1,      
       "changeable": 1,
       "filterable": 1,
+      
+      "key": "vod_黑木耳4",
+      "type": 4,
+      "api": "http://zhangqun66.com/225.php",
+      "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
+      
+      //"key": "黑木耳",
+      //"type": 1,
+      //"api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      //"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",      
       //"playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-      },
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "日本动漫",
-        "港剧",
-        "韩剧",
-        "欧美剧",
-        "国产综艺"
-      ]
+      //"header": {
+      //  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      //},
+      //"categories": [
+      //  "国产剧",
+      //  "国产动漫",
+      //  "日本动漫",
+      //  "港剧",
+      //  "韩剧",
+      //  "欧美剧",
+      //  "国产综艺"
+      //]
     }
   ],
   "doh": [
