@@ -112,18 +112,15 @@
       }
     },
     {
-      
       "name": "黑木耳｜影视",      
       "searchable": 1,
       "quickSearch": 1,      
       "changeable": 1,
-      "filterable": 1,
-      
+      "filterable": 1,      
       "key": "vod_黑木耳4",
       "type": 4,
       "api": "http://zhangqun66.com/225.php",
-      "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",
-      
+      "jar": "https://gitlab.com/newrecha/tvbox/-/raw/main/jar/fm.jar;md5;41c87635d7592069884a5dafa12acabe",      
       //"key": "黑木耳",
       //"type": 1,
       //"api": "https://json02.heimuer.xyz/api.php/provide/vod/",
