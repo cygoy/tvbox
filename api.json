@@ -112,19 +112,27 @@
       }
     },
     {
-      "key": "huarenoktv",
-      "name": "华人｜影视",
+      "key": "黑木耳",
+      "name": "黑木耳｜影视",
       "type": 1,
-      "api": "https://huaren.live/api.php/tvbox",
-      "jar": "https://git.acwing.com/kvymin/TVRule/-/raw/main/custom_spider.jar;md5;77d675fab02d67f80e31fab7723eb15d",
-      "playUrl": "json:https://parse.okhuaren.com/?url=",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",
+      "playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "header": {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-        "Referer": "test"
-      }
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+      },
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "日本动漫",
+        "港剧",
+        "韩剧",
+        "欧美剧",
+        "国产综艺"
+      ]
     }
   ],
   "doh": [
