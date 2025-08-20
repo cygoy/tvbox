@@ -25,7 +25,7 @@
       "name": "文才｜影视",
       "type": 3,
       "api": "csp_JpysGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/RinpMUTd.png;md5;198f97bcffbf5e17ed99853cf3c881a7",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -56,7 +56,7 @@
       //"key": "黑木耳",
       //"type": 1,
       //"api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      //"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",      
+      //"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/RinpMUTd.png;md5;198f97bcffbf5e17ed99853cf3c881a7",      
       //"playUrl": "json:http://127.0.0.1:9978/proxy?do=parse&from=heimuer&url=",
       //"header": {
       //  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -74,7 +74,7 @@
     {
       "key": "瓜子",
       "api": "csp_GuaziGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/w8T3qSb5.png;md5;f7de4a6a445354df4a588f4468e32e73",
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/RinpMUTd.png;md5;198f97bcffbf5e17ed99853cf3c881a7",
       //"key": "瓜子影视",
       //"api": "csp_Gz360",
       //"jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
