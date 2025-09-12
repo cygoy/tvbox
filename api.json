@@ -25,7 +25,7 @@
       "name": "文才｜影视",
       "type": 3,
       "api": "csp_JpysGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Rk80Tm-B.png;md5;db9e24529dc557e87f378d8da73146cf",
+      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -74,7 +74,7 @@
     {
       "key": "瓜子",
       "api": "csp_GuaziGuard",
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Rk80Tm-B.png;md5;db9e24529dc557e87f378d8da73146cf",
+      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
       //"key": "瓜子影视",
       //"api": "csp_Gz360",
       //"jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
@@ -362,6 +362,7 @@
     }
   ]
 }
+
 
 
 
