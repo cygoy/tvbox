@@ -1,0 +1,124 @@
+{
+	"spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+	"sites": [
+		{
+			"key": "小苹果",
+			"name": "小苹果｜影视",
+			"type": 3,
+			"api": "csp_Xpg",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "苹果影视",
+			"name": "苹果｜影视",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "文才",
+			"name": "文才｜影视",
+			"type": 3,
+			"api": "csp_JpysGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "贱贱",
+			"name": "荐片｜影视",
+			"type": 3,
+			"api": "csp_JPJGuard",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"name": "黑木耳｜影视",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "vod_黑木耳4",
+			"type": 4,
+			"api": "http://zhangqun66.com/225.php",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/fm.jar"
+		},
+		{
+			"key": "瓜子",
+			"api": "csp_GuaziGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"name": "瓜子｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "星河",
+			"api": "csp_AppGet",
+			"jar": "http://80318188.xyz/jar/ou20250504.jar",
+			"ext": {
+				"url": "http://121.62.22.204:9876",
+				"dataKey": "f5e2tx53ykp6s2c9",
+				"dataIv": "f5e2tx53ykp6s2c9",
+				"deviceId": "",
+				"version": "361"
+			},
+			"name": "星河｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_If101",
+			"name": "欧乐｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "csp_XBPQ",
+			"jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/xyqxbpq.jar",
+			"ext": {
+				"简介": "content_desc context clearfix\">&&</span>",
+				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+				"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+			}
+		},
+		{
+			"key": "zj",
+			"name": "8K｜影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+			"ext": {
+				"分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+				"分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+			}
+		},
+		{
+			"key": "drpy_js_黑木耳资源",
+			"name": "木耳｜影视",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
+		}
+	]
+}
