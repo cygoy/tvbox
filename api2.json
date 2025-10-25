@@ -95,18 +95,19 @@
 			}
 		},
 		{
-			"key": "zj",
-			"name": "8K｜影视",
+			"key": "狂人",
+			"name": "狂人｜影视",
 			"type": 3,
-			"api": "csp_XBPQ",
+			"api": "csp_AppGet",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+			//"jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
 			"ext": {
-				"分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-				"分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-			}
+                "url": "https://www.zjkrmv.vip",
+                "dataKey": "vXeyuJFqTKqWUtWU",
+                "dataIv": "vXeyuJFqTKqWUtWU"
+            }
 		},
 		{
 			"key": "drpy_js_黑木耳资源",
@@ -121,4 +122,5 @@
 			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
 		}
 	]
+
 }
