@@ -113,7 +113,9 @@
       "key": "秒看",
       "name": "秒看丨影视",
       "type": 3,
+      "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
       "api": "csp_AppGet",
       "ext": {
         "site": "https://mk1080.top/get.txt",
@@ -128,7 +130,9 @@
       "key": "旗星",
       "name": "旗星｜影视",
       "type": 3,
+      "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
       "api": "csp_AppGet",
       "ext": {
         "url": "http://ys.qist.top",
@@ -152,3 +156,4 @@
     }
   ]
 }
+
