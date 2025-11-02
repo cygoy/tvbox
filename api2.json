@@ -1,159 +1,333 @@
 {
-  "spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-  "sites": [
-    {
-      "key": "小苹果",
-      "name": "小苹果｜影视",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "苹果影视",
-      "name": "苹果｜影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "文才",
-      "name": "文才｜影视",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "贱贱",
-      "name": "荐片｜影视",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "name": "黑木耳｜影视",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "key": "vod_黑木耳4",
-      "type": 4,
-      "api": "http://zhangqun66.com/225.php",
-      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/fm.jar"
-    },
-    {
-      "key": "瓜子",
-      "api": "csp_GuaziGuard",
-      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "星河",
-      "api": "csp_AppGet",
-      "jar": "http://80318188.xyz/jar/ou20250504.jar",
-      "ext": {
-        "url": "http://121.62.22.204:9876",
-        "dataKey": "f5e2tx53ykp6s2c9",
-        "dataIv": "f5e2tx53ykp6s2c9",
-        "deviceId": "",
-        "version": "361"
-      },
-      "name": "星河｜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_If101",
-      "name": "欧乐｜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/xyqxbpq.jar",
-      "ext": {
-        "简介": "content_desc context clearfix\">&&</span>",
-        "分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-        "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
-      }
-    },
-    {
-      "key": "狂人",
-      "name": "狂人｜影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU"
-      }
-    },
-    {
-      "key": "秒看",
-      "name": "秒看丨影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-        "ua": "okhttp/3.10.0"
-      },
-      "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
-    },
-    {
-      "key": "旗星",
-      "name": "旗星｜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://ys.qist.top",
-        "dataKey": "2SWSPFxugBLPPOKo",
-        "dataIv": "2SWSPFxugBLPPOKo",
-        "version": "120"
-      },
-      "jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
-    },
-    {
-      "key": "drpy_js_黑木耳资源",
-      "name": "木耳｜影视",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
-      "jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
-    }
-  ]
+	"spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+	"sites": [
+		{
+			"key": "小苹果",
+			"name": "小苹果｜影视",
+			"type": 3,
+			"api": "csp_Xpg",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "苹果影视",
+			"name": "苹果｜影视",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "文才",
+			"name": "文才｜影视",
+			"type": 3,
+			"api": "csp_JpysGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "贱贱",
+			"name": "荐片｜影视",
+			"type": 3,
+			"api": "csp_JPJGuard",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"name": "黑木耳｜影视",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "vod_黑木耳4",
+			"type": 4,
+			"api": "http://zhangqun66.com/225.php",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/fm.jar"
+		},
+		{
+			"key": "瓜子",
+			"api": "csp_GuaziGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"name": "瓜子｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "星河",
+			"api": "csp_AppGet",
+			"jar": "http://80318188.xyz/jar/ou20250504.jar",
+			"ext": {
+				"url": "http://121.62.22.204:9876",
+				"dataKey": "f5e2tx53ykp6s2c9",
+				"dataIv": "f5e2tx53ykp6s2c9",
+				"deviceId": "",
+				"version": "361"
+			},
+			"name": "星河｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_If101",
+			"name": "欧乐｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "csp_XBPQ",
+			"jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/xyqxbpq.jar",
+			"ext": {
+				"简介": "content_desc context clearfix\">&&</span>",
+				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+				"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+			}
+		},
+		{
+			"key": "狂人",
+			"name": "狂人｜影视",
+			"type": 3,
+			"api": "csp_AppGet",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
+			"ext": {
+				"url": "https://www.zjkrmv.vip",
+				"dataKey": "vXeyuJFqTKqWUtWU",
+				"dataIv": "vXeyuJFqTKqWUtWU"
+			}
+		},
+		{
+			"key": "秒看",
+			"name": "秒看丨影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "csp_AppGet",
+			"ext": {
+				"site": "https://mk1080.top/get.txt",
+				"dataKey": "c60d88b2eep53za8",
+				"dataIv": "c60d88b2eep53za8",
+				"token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+				"ua": "okhttp/3.10.0"
+			},
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
+		},
+		{
+			"key": "旗星",
+			"name": "旗星｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"api": "csp_AppGet",
+			"ext": {
+				"url": "http://ys.qist.top",
+				"dataKey": "2SWSPFxugBLPPOKo",
+				"dataIv": "2SWSPFxugBLPPOKo",
+				"version": "120"
+			},
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
+		},
+		{
+			"key": "极光4k",
+			"name": "超清4k蓝光┃只有软件下载里面的软件才可以播放4K",
+			"type": 3,
+			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
+			"api": "http://tvbox.vip/lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 1,
+			"changeable": 1,
+			"ext": "http://tvbox.vip/js/tx.js"
+		},
+		{
+			"key": "csp_SP360",
+			"name": "超清4k播放源可切换",
+			"type": 3,
+			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
+			"api": "csp_SP360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
+		},
+		{
+			"key": "drpy_js_黑木耳资源",
+			"name": "木耳｜影视",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
+		}
+	],
+	"parses": [
+		{
+			"name": "Web聚合",
+			"type": 3,
+			"url": "Web"
+		},
+		{
+			"name": "Json聚合",
+			"type": 3,
+			"url": "Demo"
+		},
+		{
+			"name": "云",
+			"type": 0,
+			"url": "https://yparse.ik9.cc/index.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "HLS",
+			"type": 0,
+			"url": "https://jx.hls.one/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "m3u8TV",
+			"type": 0,
+			"url": "https://jx.m3u8.tv/jiexi/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.1.0"
+				}
+			}
+		},
+		{
+			"name": "77",
+			"type": 0,
+			"url": "https://jx.77flv.cc/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				]
+			}
+		},
+		{
+			"name": "咸鱼",
+			"type": 0,
+			"url": "https://jx.xymp4.cc/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"mgtv",
+					"芒果",
+					"letv",
+					"乐视",
+					"pptv",
+					"PPTV",
+					"sohu",
+					"bilibili",
+					"哔哩哔哩",
+					"哔哩"
+				]
+			}
+		}
+	]
 }
-
