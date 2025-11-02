@@ -144,7 +144,7 @@
 		},
 		{
 			"key": "极光4k",
-			"name": "超清4k蓝光┃只有软件下载里面的软件才可以播放4K",
+			"name": "超清4k蓝光┃极光",
 			"type": 3,
 			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
 			"api": "http://tvbox.vip/lib/drpy2.min.js",
@@ -331,3 +331,4 @@
 		}
 	]
 }
+
