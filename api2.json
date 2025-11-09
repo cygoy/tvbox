@@ -167,6 +167,18 @@
 			"changeable": 1
 		},
 		{
+			"key": "巧技三",
+			"name": "D4K｜影视",
+			"type": 3,
+			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
+			"api": "csp_Qiji",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
+		},
+		{
 			"key": "drpy_js_黑木耳资源",
 			"name": "木耳｜影视",
 			"type": 3,
@@ -331,4 +343,5 @@
 		}
 	]
 }
+
 
