@@ -179,16 +179,21 @@
 			"ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
 		},
 		{
-			"key": "drpy_js_黑木耳资源",
-			"name": "木耳｜影视",
+			"key": "云云",
+			"name": "云云｜影视",
 			"type": 3,
-			"api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/drpy2.min.js",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/pg.jar",
+			"api": "csp_AppQi",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/lib/mr.js"
+			"ext": {
+				"site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
+				"dataKey": "staraugust123456",
+				"dataIv": "staraugust123456",
+				"version": "120"
+			},
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
 		}
 	],
 	"parses": [
@@ -343,5 +348,6 @@
 		}
 	]
 }
+
 
 
