@@ -179,6 +179,24 @@
 			"ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
 		},
 		{
+			"key": "巧技",
+			"name": "巧技｜影视",
+			"type": 3,
+			"api": "csp_qiao2",
+			"jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/Qiaoji.jar",
+			//"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			//"timeout": 60,
+			"style": {
+				"type": "rect",
+				"ratio": 1.3
+			},
+			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+		},
+		{
 			"key": "云云",
 			"name": "云云｜影视",
 			"type": 3,
@@ -348,6 +366,3 @@
 		}
 	]
 }
-
-
-
