@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://gitlab.com/vios0810/newbox/-/raw/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "content_desc context clearfix\">&&</span>",
 				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -183,7 +183,7 @@
 			"name": "巧技｜影视",
 			"type": 3,
 			"api": "csp_qiao2",
-			"jar": "https://gitlab.com/vios0810/dirtytvbox/-/raw/main/jar/Qiaoji.jar",
+			"jar": "https://gitlab.com/vios0810/newbox/-/raw/main/jar/Qiaoji.jar",
 			//"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
@@ -366,3 +366,4 @@
 		}
 	]
 }
+
