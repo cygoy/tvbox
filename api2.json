@@ -238,12 +238,14 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
+				"url": "",
 				"site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
 				"dataKey": "staraugust123456",
 				"dataIv": "staraugust123456",
+				"deviceId": "",
 				"version": "120"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
+			"jar": "https://gitlab.com/vios0810/newbox/-/raw/main/jar/xiaosa-1107.jar"
 		}
 	],
 	"parses": [
@@ -398,6 +400,3 @@
 		}
 	]
 }
-
-
-
