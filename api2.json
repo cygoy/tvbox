@@ -1,11 +1,12 @@
 {
-	"spider": "./spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
 	"sites": [
 		{
 			"key": "小苹果",
 			"name": "小苹果｜影视",
 			"type": 3,
 			"api": "csp_Xpg",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -39,17 +40,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"name": "黑木耳｜影视",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"key": "vod_黑木耳4",
-			"type": 4,
-			"api": "http://zhangqun66.com/225.php",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/fm.jar"
 		},
 		{
 			"key": "瓜子",
@@ -232,6 +222,7 @@
 			"name": "云云｜影视",
 			"type": 3,
 			"api": "csp_AppQi",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1121.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -243,8 +234,23 @@
 				"dataIv": "staraugust123456",
 				"deviceId": "",
 				"version": "120"
-			},
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1121.jar"
+			}
+		},
+		{
+			"name": "思念｜影视",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "思念",
+			"type": 4,
+			"api": "csp_AppFox",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1121.jar",
+			"ext": {
+				"host": "https://snys2.xyz",
+				"timeout": 15,
+				"ver": 2
+			}
 		}
 	],
 	"parses": [
