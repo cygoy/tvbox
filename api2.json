@@ -109,7 +109,8 @@
 				"线路标题": "<span>&&</span>[不包含:全球1线]",
 				"简介": "video-info-item video-info-content vod_content\">&&</span>",
 				"分类url": "https://ylsp.tv/vodshow/{cateId}-{area}-{by}------{cateIPg}---{year}/",
-				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4"
+				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+				"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
 			}
 		},
 		{
