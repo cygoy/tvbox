@@ -105,8 +105,8 @@
 			"api": "csp_XBPQ",
 			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
 			"ext": {
-				"线路数组": "data-dropdown-value=\"&&</div>",
-				"线路标题": "<span>&&</span>[不包含:全球1线]",
+				//"线路数组": "data-dropdown-value=\"&&</div>",
+				//"线路标题": "<span>&&</span>[不包含:全球1线]",
 				"简介": "video-info-item video-info-content vod_content\">&&</span>",
 				"分类url": "https://ylsp.tv/vodshow/{cateId}-{area}-{by}------{cateIPg}---{year}/",
 				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
@@ -401,4 +401,5 @@
 		}
 	]
 }
+
 
