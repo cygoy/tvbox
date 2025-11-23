@@ -248,7 +248,6 @@
 			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1121.jar",
 			"ext": {
 				"host": "https://snys2.xyz",
-				"timeout": 15,
 				"ver": 2
 			}
 		}
@@ -405,4 +404,5 @@
 		}
 	]
 }
+
 
