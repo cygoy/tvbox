@@ -32,11 +32,11 @@
 			"filterable": 1
 		},
 		{
-			"key": "贱贱",
-			"name": "荐片｜影视",
+			"key": "jieyingshi",
+			"name": "異界｜影视",
 			"type": 3,
-			"api": "csp_JPJGuard",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+			"api": "https://gitlab.com/tenrecha/recha/-/raw/main/py/界.py",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1121.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -52,18 +52,11 @@
 			"filterable": 1
 		},
 		{
-			"key": "星河",
-			"api": "csp_AppGet",
-			"jar": "http://80318188.xyz/jar/ou20250504.jar",
-			"ext": {
-				"url": "http://121.62.22.204:9876",
-				"dataKey": "f5e2tx53ykp6s2c9",
-				"dataIv": "f5e2tx53ykp6s2c9",
-				"deviceId": "",
-				"version": "361"
-			},
-			"name": "星河｜影视",
+			"key": "贱贱",
+			"name": "荐片｜影视",
 			"type": 3,
+			"api": "csp_JPJGuard",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -404,6 +397,7 @@
 		}
 	]
 }
+
 
 
 
