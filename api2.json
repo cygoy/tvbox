@@ -230,6 +230,18 @@
 			}
 		},
 		{
+			"name": "特快｜影视",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "ling",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
+			"ext": "https://gitlab.com/tenrecha/recha/-/raw/main/json/飛快tv.json"
+		},
+		{
 			"name": "思念｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -397,6 +409,7 @@
 		}
 	]
 }
+
 
 
 
