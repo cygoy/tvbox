@@ -36,7 +36,7 @@
 			"name": "異界｜影视",
 			"type": 3,
 			"api": "https://gitlab.com/tenrecha/recha/-/raw/main/py/界.py",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1208.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1216.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -215,7 +215,7 @@
 			"name": "云云｜影视",
 			"type": 3,
 			"api": "csp_AppQi",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1208.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1216.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -250,7 +250,7 @@
 			"key": "思念",
 			"type": 3,
 			"api": "csp_AppFox",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1208.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1216.jar",
 			"ext": {
 				"host": "https://snys2.xyz",
 				"ver": 2
@@ -409,6 +409,7 @@
 		}
 	]
 }
+
 
 
 
