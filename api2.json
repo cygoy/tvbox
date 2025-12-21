@@ -254,6 +254,26 @@
 			"ext": "https://gitlab.com/tenrecha/recha/-/raw/main/json/巴士动漫.json"
 		},
 		{
+			"name": "番薯｜動漫",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "番薯",
+			"type": 3,
+			"api": "csp_AppGet",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-1216.jar",
+			"ext": {
+				"url": "https://new.app.bytegooty.com",
+				"site": "",
+				"dataKey": "N4yj7l7xKxHF4*gz",
+				"dataIv": "N4yj7l7xKxHF4*gz",
+				"deviceId": "",
+				"version": "",
+				"ua": ""
+			}
+		},
+		{
 			"name": "思念｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -421,13 +441,3 @@
 		}
 	]
 }
-
-
-
-
-
-
-
-
-
-
