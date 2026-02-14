@@ -275,13 +275,16 @@
 		},
 		{
 			"key": "奇奇",
-			"api": "csp_QiQiGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"api": "csp_AweSomeGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 			"name": "奇奇｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"ext": {
+				"sp": "QiQi"
+			}
 		},
 		{
 			"name": "思念｜影视",
