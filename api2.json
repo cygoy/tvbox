@@ -2,26 +2,6 @@
 	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
 	"sites": [
 		{
-			"key": "小苹果",
-			"name": "小苹果｜影视",
-			"type": 3,
-			"api": "csp_Xpg",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "苹果影视",
-			"name": "苹果｜影视",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "文才",
 			"name": "文才｜影视",
 			"type": 3,
@@ -57,6 +37,26 @@
 			"type": 3,
 			"api": "csp_JPJGuard",
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "小苹果",
+			"name": "小苹果｜影视",
+			"type": 3,
+			"api": "csp_Xpg",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "苹果影视",
+			"name": "苹果｜影视",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -274,6 +274,16 @@
 			}
 		},
 		{
+			"key": "奇奇",
+			"api": "csp_QiQiGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"name": "奇奇｜影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"name": "思念｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -441,6 +451,3 @@
 		}
 	]
 }
-
-
-
