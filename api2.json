@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+	//"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
 	"sites": [
 		{
 			"key": "文才",
@@ -454,3 +454,4 @@
 		}
 	]
 }
+
