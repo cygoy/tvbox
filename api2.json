@@ -1,15 +1,18 @@
 {
-	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 	"sites": [
 		{
 			"key": "文才",
 			"name": "文才｜影视",
 			"type": 3,
-			"api": "csp_JpysGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"api": "csp_AweSomeGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"ext": {
+				"sp": "Jpys"
+			}
 		},
 		{
 			"key": "異界",
@@ -23,13 +26,16 @@
 		},
 		{
 			"key": "瓜子",
-			"api": "csp_GuaziGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.png",
+			"api": "csp_AweSomeGuard",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 			"name": "瓜子｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"ext": {
+				"sp": "Guazi"
+			}
 		},
 		{
 			"key": "贱贱",
@@ -454,5 +460,3 @@
 		}
 	]
 }
-
-
