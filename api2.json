@@ -293,19 +293,15 @@
 			}
 		},
 		{
-			"name": "思念｜影视",
+			"name": "高端｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "思念",
+			"key": "🏆高端",
 			"type": 3,
-			"api": "csp_AppFox",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-0129.jar",
-			"ext": {
-				"host": "https://snys2.xyz",
-				"ver": 2
-			}
+			"api": "csp_DdysAmns",
+			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/aowu.jar"
 		}
 	],
 	"parses": [
