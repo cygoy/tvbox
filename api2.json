@@ -143,10 +143,10 @@
 				"site": "https://mk1080.top/get.txt",
 				"dataKey": "c60d88b2eep53za8",
 				"dataIv": "c60d88b2eep53za8",
-				"token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+				"token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
 				"ua": "okhttp/3.10.0"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
 		},
 		{
 			"key": "旗星",
