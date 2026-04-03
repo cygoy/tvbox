@@ -149,18 +149,17 @@
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
 		},
 		{
-			"key": "旗星",
-			"name": "旗星｜影视",
+			"key": "段友",
+			"name": "段友｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_AppGet",
 			"ext": {
-				"url": "http://ys.qist.top",
-				"dataKey": "2SWSPFxugBLPPOKo",
-				"dataIv": "2SWSPFxugBLPPOKo",
-				"version": "120"
+				"url": "https://shangjihuoke.com",
+				"dataKey": "8E2DC386FD452D05",
+				"dataIv": "8E2DC386FD452D05"
 			},
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
 		},
