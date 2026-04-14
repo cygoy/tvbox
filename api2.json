@@ -18,8 +18,8 @@
 			"key": "異界",
 			"name": "異界｜影视",
 			"type": 3,
-			"api": "https://gitlab.com/tenrecha/recha/-/raw/main/py/界.py",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-0306.jar",
+			"api": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/py/界.py",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xiaosa-0306.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -75,7 +75,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xyqxbpq.jar",
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
@@ -92,7 +92,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "video-info-item video-info-content vod_content\">&&</span>",
 				"分类url": "https://ylsp.tv/vodshow/{cateId}-{area}-{by}------{cateIPg}---{year}/",
@@ -108,7 +108,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "content_desc context clearfix\">&&</span>",
 				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -220,7 +220,7 @@
 			"name": "缘梦｜影视",
 			"type": 3,
 			"api": "csp_AppGet",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-0306.jar",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xiaosa-0306.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -252,8 +252,8 @@
 			"key": "csp_動漫巴士",
 			"type": 3,
 			"api": "csp_XYQHiker",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
-			"ext": "https://gitlab.com/tenrecha/recha/-/raw/main/json/巴士动漫.json"
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xyqxbpq.jar",
+			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/json/巴士动漫.json"
 		},
 		{
 			"name": "番薯｜動漫",
@@ -264,7 +264,7 @@
 			"key": "番薯",
 			"type": 3,
 			"api": "csp_AppGet",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xiaosa-0306.jar",
+			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/jar/xiaosa-0306.jar",
 			"ext": {
 				"url": "https://new.app.bytegooty.com",
 				"site": "",
