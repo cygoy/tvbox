@@ -275,7 +275,7 @@
 		{
 			"key": "花花",
 			"api": "csp_AppSxGuard",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar",
 			"name": "花花｜影视",
 			"type": 3,
 			"searchable": 1,
@@ -292,7 +292,7 @@
 			"key": "Dm84",
 			"type": 3,
 			"api": "csp_Dm84Guard",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507"
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar"
 		}
 	],
 	"parses": [
