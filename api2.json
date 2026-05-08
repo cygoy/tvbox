@@ -273,28 +273,26 @@
 			}
 		},
 		{
-			"key": "奇奇",
-			"api": "csp_AweSomeGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
-			"name": "奇奇｜影视",
+			"key": "花花",
+			"api": "csp_AppSxGuard",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507",
+			"name": "花花｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"sp": "QiQi"
-			}
+			"ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
 		},
 		{
-			"name": "高端｜影视",
+			"name": "Dm84｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "🏆高端",
+			"key": "Dm84",
 			"type": 3,
-			"api": "csp_DdysAmns",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu.jar"
+			"api": "csp_Dm84Guard",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507"
 		}
 	],
 	"parses": [
