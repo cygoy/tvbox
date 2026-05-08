@@ -114,18 +114,18 @@
 			}
 		},
 		{
-			"key": "狂人",
-			"name": "狂人｜影视",
+			"key": "星空2",
+			"name": "星空｜影视",
 			"type": 3,
 			"api": "csp_AppGet",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-0506.jar",
 			"ext": {
-				"url": "https://www.zjkrmv.vip",
-				"dataKey": "vXeyuJFqTKqWUtWU",
-				"dataIv": "vXeyuJFqTKqWUtWU"
+				"url": "https://cms140.yhg.one/",
+				"dataKey": "bM7iC9eA3oZ1nB7z",
+				"dataIv": "bM7iC9eA3oZ1nB7z"
 			}
 		},
 		{
