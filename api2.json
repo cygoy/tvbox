@@ -185,16 +185,20 @@
 			"changeable": 1
 		},
 		{
-			"key": "巧技三",
-			"name": "D4K｜影视",
+			"key": "首发",
+			"name": "首发｜APP",
 			"type": 3,
-			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
-			"api": "csp_Qiji",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"api": "csp_AppQi",
 			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
 			"changeable": 1,
-			"ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"
+			"ext": {
+				"site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+				"dataKey": "FTgP4Gq8zPiqbt7M",
+				"dataIv": "FTgP4Gq8zPiqbt7M",
+				"init": "initV122",
+				"ua": "okhttp/3.10.0"
+			}
 		},
 		{
 			"key": "巧技",
