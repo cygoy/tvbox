@@ -1,5 +1,5 @@
 {
-	"spider": "./ok.jpg",
+	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 	"sites": [
 		{
 			"key": "文才",
