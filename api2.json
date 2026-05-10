@@ -174,7 +174,7 @@
 		},
 		{
 			"key": "爱营",
-			"name": "爱营",
+			"name": "爱营┃影视",
 			"type": 3,
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
 			"api": "csp_AppGet",
