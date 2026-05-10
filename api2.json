@@ -161,17 +161,16 @@
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/xiaosa/spider.jar"
 		},
 		{
-			"key": "极光4k",
-			"name": "超清4k蓝光┃极光",
+			"key": "三秋影视",
+			"name": "三秋┃影视",
 			"type": 3,
-			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
-			"api": "http://tvbox.vip/lib/drpy2.min.js",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 1,
-			"changeable": 1,
-			"ext": "http://tvbox.vip/js/tx.js"
+			"changeable": 1
 		},
 		{
 			"key": "csp_SP360",
