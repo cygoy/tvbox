@@ -173,15 +173,16 @@
 			"changeable": 1
 		},
 		{
-			"key": "csp_SP360",
-			"name": "超清4k播放源可切换",
+			"key": "爱营",
+			"name": "爱营",
 			"type": 3,
-			"jar": "http://tvbox.plus/yoursmile66/Yoursmile.jar",
-			"api": "csp_SP360",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
+			"api": "csp_AppGet",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"changeable": 1
+			"changeable": 1,
+			"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
 		},
 		{
 			"key": "首发",
