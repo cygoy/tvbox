@@ -162,7 +162,7 @@
 		},
 		{
 			"key": "三秋影视",
-			"name": "三秋┃影视",
+			"name": "三秋｜影视",
 			"type": 3,
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"api": "csp_App3Q",
@@ -173,7 +173,7 @@
 		},
 		{
 			"key": "爱营",
-			"name": "爱营┃影视",
+			"name": "爱营｜影视",
 			"type": 3,
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
 			"api": "csp_AppGet",
@@ -276,15 +276,15 @@
 			}
 		},
 		{
-			"key": "花花",
-			"api": "csp_AppSxGuard",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar",
-			"name": "花花｜影视",
+			"key": "金牌",
+			"api": "csp_Jpys",
+			"jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
+			"name": "金牌｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
+			"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
 		},
 		{
 			"name": "Dm84｜影视",
