@@ -276,15 +276,15 @@
 			}
 		},
 		{
-			"key": "金牌",
-			"api": "csp_Jpys",
-			"jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
+			"key": "py_文才",
+			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/界.py",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar",
 			"name": "金牌｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+			"ext"        : {"site": "https://ndhfiohk.com"}
 		},
 		{
 			"name": "Dm84｜影视",
