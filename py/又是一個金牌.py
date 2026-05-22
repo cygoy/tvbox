@@ -304,39 +304,40 @@ class Spider(Spider):
         vods=self.getvod(data)
         return {'list':vods}
 
-    def categoryContent(self, tid, pg, filter, extend):
-
-        params = {
-          "area": extend.get('area', ''),
-          "filterStatus": "1",
-          "lang": extend.get('lang', ''),
-          "pageNum": pg,
-          "pageSize": "30",
-          "sort": extend.get('sort', '1'),
-          "sortBy": "1",
-          "type": extend.get('type', ''),
-          "type1": tid,
-          "v_class": extend.get('v_class', ''),
-          "year": extend.get('year', '')
+    def categoryContent(self, cid, page, filter, ext):
+        t = cid
+        _type = ext.get('type') if ext.get('type') else ''
+        __class = ext.get('class') if ext.get('class') else ''
+        _area = ext.get('area') if ext.get('area') else ''
+        _year = ext.get('year') if ext.get('year') else ''
+        _lang = ext.get('lang') if ext.get('lang') else ''
+        _by = ext.get('by') if ext.get('by') else ''
+        video_list = []
+        h = {
+            "User-Agent": self.ua,
+            'referer': self.home_url,
         }
-        data = self.fetch(f"{self.host}/api/mw-movie/anonymous/video/list?{self.js(params)}", headers=self.getheaders(params)).json()
-        result = {}
-        result['list'] = self.getvod(data['data']['list'])
-        result['page'] = pg
-        result['pagecount'] = 9999
-        result['limit'] = 90
-        result['total'] = 999999
-        return result
-
-    def detailContent(self, ids):
-        data=self.fetch(f"{self.host}/api/mw-movie/anonymous/video/detail?id={ids[0]}",headers=self.getheaders({'id':ids[0]})).json()
-        vod=self.getvod([data['data']])[0]
-        vod['vod_play_from']='老王有金牌'
-        vod['vod_play_url'] = '#'.join(
-            f"{i['name'] if len(vod['episodelist']) > 1 else vod['vod_name']}${ids[0]}@@{i['nid']}" for i in
-            vod['episodelist'])
-        vod.pop('episodelist', None)
-        return {'list':[vod]}
+        try:
+            res = requests.get(
+                f'{self.home_url}/vod/show/id/{t}{_type}{__class}{_area}{_year}{_lang}{_by}/page/{page}',
+                headers=h)
+            aa = re.findall(r'\\"list\\":(.*?)}}}]', res.text)
+            if not aa:
+                return {'list': [], 'parse': 0, 'jx': 0}
+            bb = aa[0].replace('\\"', '"')
+            data_list = json.loads(bb)
+            for i in data_list:
+                video_list.append(
+                    {
+                        'vod_id': i['vodId'],
+                        'vod_name': i['vodName'],
+                        'vod_pic': i['vodPic'],
+                        'vod_remarks': i['vodVersion'] if i['typeId1'] == 1 else i['vodRemarks']
+                    }
+                )
+        except requests.RequestException as e:
+            return {'list': [], 'msg': e}
+        return {'list': video_list, 'parse': 0, 'jx': 0}
 
     def searchContent(self, key, quick, pg="1"):
         params = {
