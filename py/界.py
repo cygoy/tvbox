@@ -378,6 +378,7 @@ class Spider(Spider):
                     'type_name': data['typeName'],
                     'vod_id': ids,
                     'vod_name': data['vodName'],
+                    'vod_pic': data['vodPic'],
                     'vod_remarks': data['vodRemarks'],
                     'vod_year': data['vodYear'],
                     'vod_area': data['vodArea'],
