@@ -214,19 +214,25 @@
 			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
 		},
 		{
-			"key": "缘梦",
-			"name": "缘梦｜影视",
+			"key": "听心99",
+			"name": "欣欣｜影视",
 			"type": 3,
-			"api": "csp_AppGet",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0306.jar",
+			"api": "csp_App99",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"url": "http://165.99.42.137:5432",
-				"dataKey": "1234567890987654",
-				"dataIv": "1234567890987654"
+				"host": "https://api.12321app.com",
+				"LoginPath": "/app/log",
+				"version": "0b4328287a5d953e",
+				"appkey": "a0a18659a9977a47e53442cd084b536c",
+				"appkey": "a0a18659a9977a47e53442cd084b536c",
+				"name": "听心视频",
+				"package": "com.iksp.adsys.jjsp",
+				"buildNumber": "2001",
+				"buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
 			}
 		},
 		{
