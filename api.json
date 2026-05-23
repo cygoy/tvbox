@@ -2,17 +2,15 @@
 	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
 	"sites": [
 		{
-			"key": "文才",
+			"key": "csp_Jpys",
 			"name": "文才｜影视",
 			"type": 3,
-			"api": "csp_AweSomeGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
+			"api": "csp_Jpys",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": {
-				"sp": "Jpys"
-			}
+			"ext":"https://ndhfiohk.com"
 		},
 		{
 			"key": "csp_YLSP",
