@@ -10,7 +10,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext":"https://ndhfiohk.com"
+			"ext": "https://ndhfiohk.com"
 		},
 		{
 			"key": "異界",
@@ -288,7 +288,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext"        : {"site": "https://ndhfiohk.com"}
+			"ext": {
+				"site": "https://ndhfiohk.com"
+			}
 		},
 		{
 			"name": "Dm84｜影视",
@@ -302,18 +304,14 @@
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar"
 		},
 		{
-			"name": "番薯｜影视",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"key": "py_番薯_APP",
+			"key": "番薯动漫",
+			"name": "番薯丨影视",
 			"type": 3,
-			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/app/getapp.py",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0523.jar",
+			"searchable": 1,
+			"api": "csp_AppGet",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"ext": {
-				"host": "https://new.app.bytegooty.com",
-				"api"    : "/api.php/getappapi",
+				"url": "https://new.app.bytegooty.com",
 				"dataKey": "N4yj7l7xKxHF4*gz",
 				"dataIv": "N4yj7l7xKxHF4*gz"
 			}
