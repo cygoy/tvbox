@@ -1,10 +1,10 @@
 {
 	"spider": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0523.jar",
 	"playerConfig": {
-    "extra": {
-      "danmakuEnable": false
+		"extra": {
+			"danmakuEnable": false
 		}
-		},
+	},
 	"sites": [
 		{
 			"key": "csp_Jpys",
@@ -38,14 +38,25 @@
 			"filterable": 1
 		},
 		{
-			"key": "贱贱",
-			"name": "荐片｜影视",
+			"key": "无极99",
+			"name": "无极｜影视",
 			"type": 3,
-			"api": "csp_JPJGuard",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
+			"api": "csp_App99",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"ext": {
+				"host": "http://111.170.140.70:19987/app/bn",
+				"LoginPath": "/app/log",
+				"version": "",
+				"appkey": "c403317c2a2946659b0bcbabdd5de43a",
+				"versionName": "1.0.1",
+				"name": "无极影视",
+				"package": "com.wujiys.app",
+				"buildNumber": "2001",
+				"buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+			}
 		},
 		{
 			"key": "小苹果",
