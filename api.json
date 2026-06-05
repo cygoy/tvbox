@@ -1,5 +1,10 @@
 {
 	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
+	"playerConfig": {
+    "extra": {
+      "danmakuEnable": true
+		}
+		},
 	"sites": [
 		{
 			"key": "csp_Jpys",
