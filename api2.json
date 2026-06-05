@@ -1,5 +1,10 @@
 {
 	"spider": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0523.jar",
+	"playerConfig": {
+    "extra": {
+      "danmakuEnable": true
+		}
+		},
 	"sites": [
 		{
 			"key": "csp_Jpys",
