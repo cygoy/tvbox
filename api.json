@@ -32,48 +32,6 @@
 				"分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
 				"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
 			}
-		},
-		{
-			"key": "小苹果",
-			"name": "小苹果｜影视",
-			"type": 3,
-			"api": "csp_Xpg",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "苹果影视",
-			"name": "苹果｜影视",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "贱贱",
-			"name": "荐片｜影视",
-			"type": 3,
-			"api": "csp_JPJGuard",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/fan.txt",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "瓜子",
-			"api": "csp_AweSomeGuard",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
-			"name": "瓜子｜影视",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"sp": "Guazi"
-			}
 		}
 	],
 	"doh": [
