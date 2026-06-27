@@ -281,19 +281,10 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "番薯",
+			"key": "FanShu",
 			"type": 3,
-			"api": "csp_AppGet",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0604.jar",
-			"ext": {
-				"url": "https://new.app.bytegooty.com",
-				"site": "",
-				"dataKey": "N4yj7l7xKxHF4*gz",
-				"dataIv": "N4yj7l7xKxHF4*gz",
-				"deviceId": "",
-				"version": "",
-				"ua": ""
-			}
+			"api": "csp_FanShuAmns",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0626.jar"
 		},
 		{
 			"key": "py_文才",
