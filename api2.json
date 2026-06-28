@@ -281,10 +281,16 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "FanShu",
+			"key": "py_番薯_APP",
 			"type": 3,
-			"api": "csp_FanShuAmns",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0626.jar"
+			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/app/getapp.py",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0527.jar",
+			"ext"        : {
+				"host"   : "https://new.app.bytegooty.com",
+				"api"    : "/api.php/getappapi",
+				"datakey": "N4yj7l7xKxHF4*gz",
+				"dataiv" : "N4yj7l7xKxHF4*gz"
+				}
 		},
 		{
 			"key": "py_文才",
