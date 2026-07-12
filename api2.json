@@ -160,6 +160,27 @@
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
 		},
 		{
+			"key": "顾我99",
+			"name": "顾我丨影视",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"type": 3,
+			"api": "csp_App99",
+			"ext": {
+				"host": "http://117.50.200.113:19987/app/bn",
+				"LoginPath": "/app/log",
+				"appkey": "040f9b1bc5e942569b5c3e63943306ab",
+				"versionName": "4.3.1",
+				"name": "顾我追剧",
+				"package": "com.guwozhuijux.app",
+				"buildNumber": "2001",
+				"buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
+			},
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+		},
+		{
 			"key": "段友",
 			"name": "段友｜影视",
 			"type": 3,
@@ -285,12 +306,12 @@
 			"type": 3,
 			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/app/getapp.py",
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0527.jar",
-			"ext"        : {
-				"host"   : "https://new.app.bytegooty.com",
-				"api"    : "/api.php/getappapi",
+			"ext": {
+				"host": "https://new.app.bytegooty.com",
+				"api": "/api.php/getappapi",
 				"datakey": "N4yj7l7xKxHF4*gz",
-				"dataiv" : "N4yj7l7xKxHF4*gz"
-				}
+				"dataiv": "N4yj7l7xKxHF4*gz"
+			}
 		},
 		{
 			"key": "py_文才",
