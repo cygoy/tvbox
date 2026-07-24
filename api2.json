@@ -225,6 +225,18 @@
 			"ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
 		},
 		{
+			"key": "星河",
+			"name": "星河｜影视",
+			"type": 3,
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
+			"api": "csp_AppGet",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122|okhttp/3.10.0"
+		},
+		{
 			"key": "剧圈99",
 			"name": "剧圈｜影视",
 			"type": 3,
