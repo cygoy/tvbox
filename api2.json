@@ -205,7 +205,7 @@
 			"key": "三秋影视",
 			"name": "三秋｜影视",
 			"type": 3,
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-fman.jar",
 			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -235,6 +235,17 @@
 			"filterable": 1,
 			"changeable": 1,
 			"ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122|okhttp/3.10.0"
+		},
+		{
+			"key": "云朵影视",
+			"name": "云朵｜影视",
+			"type": 3,
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-fman.jar",
+			"api": "csp_App3Q",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "剧圈99",
