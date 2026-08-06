@@ -332,18 +332,6 @@
 			"ext": "https://gitlab.com/tenrecha/recha/raw/main/json/飛快tv.json"
 		},
 		{
-			"key": "橘子",
-			"name": "橘子｜影视",
-			"type": 3,
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
-			"api": "csp_AppGet",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt|DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==|V122|okhttp/3.10.0"
-		},
-		{
 			"key": "橘汁",
 			"name": "橘汁｜影视",
 			"type": 3,
