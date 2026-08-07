@@ -337,9 +337,9 @@
 			"type": 3,
 			"api": "csp_AppDrama",
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
 			"filterable": 1,
 			"ext": {
 				"appName": "橘汁",
