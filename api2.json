@@ -118,7 +118,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"ext": {
 				"简介": "content_desc context clearfix\">&&</span>",
 				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -327,7 +327,7 @@
 			"key": "ling",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"ext": "https://gitlab.com/tenrecha/recha/raw/main/json/飛快tv.json"
 		},
 		{
