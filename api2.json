@@ -90,9 +90,8 @@
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
-				"分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-				"地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他"
+				"分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
 			}
 		},
 		{
