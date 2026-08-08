@@ -391,12 +391,12 @@
 			"key": "FanShu",
 			"type": 3,
 			"api": "csp_FanShuAmns",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0713.jar"
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0722.jar"
 		},
 		{
 			"key": "py_文才",
 			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/又是一個金牌.py",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0720.jar",
 			"name": "金牌｜影视",
 			"type": 3,
 			"searchable": 1,
@@ -415,7 +415,7 @@
 			"key": "Dm84",
 			"type": 3,
 			"api": "csp_Dm84Guard",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0507.jar"
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0720.jar"
 		},
 		{
 			"key": "番薯动漫",
