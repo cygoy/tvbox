@@ -249,7 +249,7 @@
 			"key": "云朵影视",
 			"name": "云朵｜影视",
 			"type": 3,
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0807.jar",
 			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
