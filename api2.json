@@ -38,8 +38,8 @@
 			"filterable": 1
 		},
 		{
-			"key": "无极99",
-			"name": "无极｜影视",
+			"key": "半日99",
+			"name": "半日｜影视",
 			"type": 3,
 			"api": "csp_App99",
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
@@ -47,15 +47,15 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"host": "http://111.170.140.70:19987/app/bn",
+				"host": "http://103.217.190.91:19987/app/bn",
 				"LoginPath": "/app/log",
 				"version": "",
-				"appkey": "c403317c2a2946659b0bcbabdd5de43a",
-				"versionName": "1.0.1",
-				"name": "无极影视",
-				"package": "com.wujiys.app",
+				"appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
+				"versionName": "3.5.8",
+				"name": "半日闲",
+				"package": "com.yf.lelian",
 				"buildNumber": "2001",
-				"buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+				"buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
 			}
 		},
 		{
@@ -127,19 +127,15 @@
 			}
 		},
 		{
-			"key": "星空2",
-			"name": "星空｜影视",
+			"key": "蓝鹰",
+			"name": "蓝鹰｜影视",
 			"type": 3,
 			"api": "csp_AppGet",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-0506.jar",
-			"ext": {
-				"url": "https://cms140.yhg.one/",
-				"dataKey": "bM7iC9eA3oZ1nB7z",
-				"dataIv": "bM7iC9eA3oZ1nB7z"
-			}
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
+			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/yf.txt|hagYExMdMkeWfemK|V122|okhttp/3.10.0"
 		},
 		{
 			"key": "秒看",
