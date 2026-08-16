@@ -379,14 +379,14 @@
 			"ext": "https://gitlab.com/tenrecha/recha/raw/main/json/巴士动漫.json"
 		},
 		{
-			"name": "番薯｜動漫",
+			"name": "囧途｜動漫",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "FanShu",
+			"key": "DMcyc",
 			"type": 3,
-			"api": "csp_FanShuAmns",
+			"api": "csp_DMcycAmns",
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0813.jar"
 		},
 		{
