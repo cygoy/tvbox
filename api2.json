@@ -146,7 +146,7 @@
 			"filterable": 1,
 			"api": "csp_AppGet",
 			"ext": {
-				"site": "https://mk1080.top/get.txt",
+				"url": "https://mk1080.top/",
 				"dataKey": "c60d88b2eep53za8",
 				"dataIv": "c60d88b2eep53za8",
 				"token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c",
