@@ -389,21 +389,11 @@
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0813.jar"
 		},
 		{
-			"key": "爱影",
-			"name": "爱影｜影视",
+			"key": "山楂影视",
+			"name": "山楂｜影视",
 			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "csp_AppQi",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0813.jar",
-			"ext": {
-				"site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
-				"dataKey": "0UKM8jkasM8tdzgW",
-				"dataIv": "0UKM8jkasM8tdzgW",
-				"init": "initV122",
-				"ua": "okhttp/3.10.0"
-			}
+			"api": "csp_PianKu8",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
 		},
 		{
 			"key": "怀桑",
