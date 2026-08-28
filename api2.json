@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
+	"spider": "https://github.com/cygoy/tvbox/raw/refs/heads/main/ok.jpg",
 	"playerConfig": {
 		"extra": {
 			"danmakuEnable": false
@@ -63,7 +63,7 @@
 			"name": "小苹果｜影视",
 			"type": 3,
 			"api": "csp_Xpg",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+			"jar": "https://github.com/cygoy/tvbox/raw/refs/heads/main/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -73,7 +73,7 @@
 			"name": "苹果｜影视",
 			"type": 3,
 			"api": "csp_LiteApple",
-			"jar": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/xs_spider.jar;md5;9d180f7d935e3b0665bec2d32b040796",
+			"jar": "https://github.com/cygoy/tvbox/raw/refs/heads/main/xs_spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -135,7 +135,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
-			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/yf.txt|hagYExMdMkeWfemK|V122|okhttp/3.10.0"
+			"ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/yf.txt|hagYExMdMkeWfemK|V122|okhttp/3.10.0"
 		},
 		{
 			"key": "秒看",
@@ -227,7 +227,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ays.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
+			"ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/ays.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
 		},
 		{
 			"key": "星河",
@@ -239,7 +239,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"ext": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122|okhttp/3.10.0"
+			"ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122|okhttp/3.10.0"
 		},
 		{
 			"key": "云朵影视",
@@ -351,14 +351,14 @@
 			"key": "4K影院",
 			"name": "光影｜影视",
 			"type": 3,
-			"api": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/lib/get.js",
-			"jar": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/xpg.jar",
+			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/lib/get.js",
+			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
 			"ext": {
-				"host": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/lib/603.txt",
+				"host": "https://github.com/cxelva/xpg/raw/refs/heads/main/lib/603.txt",
 				"key": "FTgP4Gq8zPiqbt7M",
 				"init": "V122",
 				"api": 2,
@@ -408,7 +408,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"site": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/MuQi/mqxh.txt",
+				"site": "https://github.com/cygoy/tvbox/raw/refs/heads/main/MuQi/mqxh.txt",
 				"dataKey": "kj37zs29q22jk96t",
 				"dataIv": "kj37zs29q22jk96t",
 				"init": "initV122",
