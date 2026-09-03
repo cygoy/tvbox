@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/cygoy/tvbox/refs/heads/main/ok.jpg",
+	"spider": "https://github.com/cygoy/tvbox/raw/refs/heads/main/ok.jpg",
 	"playerConfig": {
     "extra": {
       "danmakuEnable": false
@@ -11,7 +11,7 @@
 			"name": "文才｜影视",
 			"type": 3,
 			"api": "csp_Jpys",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/mi-0508.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/mi-0508.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -25,7 +25,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/-/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "video-info-item video-info-content vod_content\">&&</span>",
 				"分类url": "https://ylsp.tv/vodshow/{cateId}-{area}-{by}------{cateIPg}---{year}/",
