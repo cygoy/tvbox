@@ -22,7 +22,7 @@
 			"name": "異界｜影视",
 			"type": 3,
 			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/界.py",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0604.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-fman.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -245,7 +245,7 @@
 			"key": "云朵影视",
 			"name": "云朵｜影视",
 			"type": 3,
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0807.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0831.jar",
 			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -401,7 +401,7 @@
 		{
 			"key": "怀桑",
 			"api": "csp_AppQi",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0807.jar",
+			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0831.jar",
 			"name": "怀桑｜影视",
 			"type": 3,
 			"searchable": 1,
