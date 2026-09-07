@@ -21,8 +21,8 @@
 			"key": "異界",
 			"name": "異界｜影视",
 			"type": 3,
-			"api": "https://gitlab.com/tenrecha/recha/raw/main/py/界.py",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/river-fman.jar",
+			"api": "https://github.com/cygoy/tvbox/raw/main/py/界.py",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/river-fman.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -86,7 +86,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
 			"ext": {
 				"请求头": "User-Agent$MOBILE_UA",
 				"编码": "UTF-8",
@@ -102,7 +102,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "video-info-item video-info-content vod_content\">&&</span>",
 				"分类url": "https://ylsp.tv/vodshow/{cateId}-{area}-{by}------{cateIPg}---{year}/",
@@ -245,7 +245,7 @@
 			"key": "云朵影视",
 			"name": "云朵｜影视",
 			"type": 3,
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0831.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xiaosa-0831.jar",
 			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -374,7 +374,7 @@
 			"key": "csp_動漫巴士",
 			"type": 3,
 			"api": "csp_XYQHiker",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xyqxbpq.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
 			"ext": "https://gitlab.com/tenrecha/recha/raw/main/json/巴士动漫.json"
 		},
 		{
@@ -386,7 +386,7 @@
 			"key": "DMcyc",
 			"type": 3,
 			"api": "csp_DMcycAmns",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/aowu-0813.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/aowu-0813.jar"
 		},
 		{
 			"key": "山楂影视",
@@ -401,7 +401,7 @@
 		{
 			"key": "怀桑",
 			"api": "csp_AppQi",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/xiaosa-0831.jar",
+			"jar": "https://github.com/cygoy/tvbox/main/jar/xiaosa-0831.jar",
 			"name": "怀桑｜影视",
 			"type": 3,
 			"searchable": 1,
@@ -424,7 +424,7 @@
 			"key": "Dm84",
 			"type": 3,
 			"api": "csp_Dm84Guard",
-			"jar": "https://gitlab.com/tenrecha/recha/raw/main/jar/fan-0720.jar"
+			"jar": "https://github.com/cygoy/tvbox/main/jar/fan-0720.jar"
 		},
 		{
 			"key": "番薯动漫",
