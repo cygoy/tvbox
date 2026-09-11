@@ -359,22 +359,14 @@
 			}
 		},
 		{
-			"key": "4K影院",
-			"name": "光影｜影视",
+			"key": "咕噜",
+			"name": "咕噜｜影视",
 			"type": 3,
-			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/lib/get.js",
-			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar",
+			"api": "csp_Gulu",
+			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 1,
-			"ext": {
-				"host": "https://github.com/cxelva/xpg/raw/refs/heads/main/lib/603.txt",
-				"key": "FTgP4Gq8zPiqbt7M",
-				"init": "V122",
-				"api": 2,
-				"ua": "okhttp/3.10.0"
-			}
+			"filterable": 1
 		},
 		{
 			"name": "巴士｜動漫",
