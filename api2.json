@@ -419,18 +419,6 @@
 			}
 		},
 		{
-			"key": "4Kys1",
-			"name": "世界｜影视",
-			"type": 3,
-			"api": "csp_AppGet",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/wyjk.php",
-			"ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
-		},
-		{
 			"name": "Dm84｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
