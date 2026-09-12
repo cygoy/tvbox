@@ -28,7 +28,7 @@
 			"filterable": 1
 		},
 		{
-			"key": "瓜子",
+			"key": "瓜子影视",
 			"api": "csp_Gz360",
 			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
 			"name": "瓜子｜影视",
