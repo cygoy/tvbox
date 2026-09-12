@@ -419,15 +419,15 @@
 			}
 		},
 		{
-			"name": "Dm84｜影视",
+			"name": "Dm84｜動漫",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
 			"filterable": 1,
-			"key": "csp_Dm84Guard",
+			"key": "Dm84",
 			"type": 3,
 			"api": "csp_Dm84Guard",
-			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0911.jar"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/FTY/spider.jar"
 		},
 		{
 			"name": "零七｜影视",
