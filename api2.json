@@ -427,7 +427,19 @@
 			"key": "csp_Dm84Guard",
 			"type": 3,
 			"api": "csp_Dm84Guard",
-			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0907.jar"
+			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0911.jar"
+		},
+		{
+			"name": "零七｜影视",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "csp_AppV7Amns_零七",
+			"type": 3,
+			"api": "csp_AppV7Amns",
+			"ext": "AppV7Llq",
+			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0911.jar"
 		},
 		{
 			"key": "番薯动漫",
