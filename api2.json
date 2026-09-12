@@ -30,19 +30,19 @@
 		{
 			"key": "瓜子影视",
 			"api": "csp_Gz360",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"name": "瓜子｜影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 0,
-			"filterable": 1
+			"filterable": 1,
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar"
 		},
 		{
 			"key": "半日99",
 			"name": "半日｜影视",
 			"type": 3,
 			"api": "csp_App99",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -73,12 +73,13 @@
 			"name": "苹果｜影视",
 			"type": 3,
 			"api": "csp_AppDrama",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XM/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
 				"appName": "小苹果",
+				"commonKey": "ed5fdsgucxumegqa",
 				"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
 				"dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
 				"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
@@ -291,7 +292,7 @@
 				"buildNumber": "2002",
 				"buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
 			},
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XM/spider.jar"
 		},
 		{
 			"key": "爱看机器人",
@@ -301,7 +302,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar"
 		},
 		{
 			"key": "听心99",
@@ -363,7 +364,7 @@
 			"name": "咕噜｜影视",
 			"type": 3,
 			"api": "csp_Gulu",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -399,7 +400,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_PianKu8",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar"
 		},
 		{
 			"key": "怀桑",
