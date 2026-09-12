@@ -1,5 +1,5 @@
 {
-	"spider": "https://img.51shazhu.com/autoupload/g1b6f/20260909/VZ3f/0X0/09091555.png;md5;176deff1724a6fdc9bd97f8e6e04b562",
+	"spider": "https://github.com/cygoy/tvbox/raw/main/ok.png",
 	"playerConfig": {
 		"extra": {
 			"danmakuEnable": false
@@ -30,7 +30,7 @@
 		{
 			"key": "瓜子影视",
 			"api": "csp_Gz360",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"name": "瓜子｜影视",
 			"type": 3,
 			"searchable": 1,
@@ -42,7 +42,7 @@
 			"name": "半日｜影视",
 			"type": 3,
 			"api": "csp_App99",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -73,7 +73,7 @@
 			"name": "苹果｜影视",
 			"type": 3,
 			"api": "csp_AppDrama",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -129,7 +129,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"ext": {
 				"简介": "content_desc context clearfix\">&&</span>",
 				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
@@ -163,7 +163,7 @@
 				"token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c",
 				"ua": "okhttp/3.10.0"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "顾我99",
@@ -184,7 +184,7 @@
 				"buildNumber": "2001",
 				"buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "橙子99",
@@ -205,13 +205,13 @@
 				"buildNumber": "2001",
 				"buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "三秋影视",
 			"name": "三秋｜影视",
 			"type": 3,
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"api": "csp_App3Q",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -291,7 +291,7 @@
 				"buildNumber": "2002",
 				"buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
 			},
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "爱看机器人",
@@ -301,7 +301,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "听心99",
@@ -363,7 +363,7 @@
 			"name": "咕噜｜影视",
 			"type": 3,
 			"api": "csp_Gulu",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -399,7 +399,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_PianKu8",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar"
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
 		},
 		{
 			"key": "怀桑",
@@ -435,7 +435,7 @@
 			"type": 3,
 			"searchable": 1,
 			"api": "csp_AppGet",
-			"jar": "https://github.com/qist/tvbox/raw/refs/heads/master/jar/spider.jar",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
 			"ext": {
 				"url": "https://new.app.bytegooty.com",
 				"dataKey": "N4yj7l7xKxHF4*gz",
