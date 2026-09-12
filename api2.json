@@ -34,7 +34,7 @@
 			"name": "瓜子｜影视",
 			"type": 3,
 			"searchable": 1,
-			"quickSearch": 1,
+			"quickSearch": 0,
 			"filterable": 1
 		},
 		{
@@ -422,7 +422,6 @@
 			"name": "Dm84｜動漫",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
 			"filterable": 1,
 			"key": "Dm84",
 			"type": 3,
@@ -433,25 +432,12 @@
 			"name": "零七｜影视",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"key": "csp_AppV7Amns_零七",
-			"type": 3,
-			"api": "csp_AppV7Amns",
-			"ext": "AppV7Llq",
-			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0911.jar"
-		},
-		{
-			"name": "霖栖｜影视",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
 			"filterable": 1,
 			"key": "AppV7Llq",
 			"type": 3,
 			"api": "csp_AppV7Amns",
 			"ext": "AppV7Llq",
-			"jar": "https://gitlab.com/st7833232/recha/raw/main/jar/aowu-0901.jar"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/AW/spider.jar"
 		}
 	],
 	"parses": [
