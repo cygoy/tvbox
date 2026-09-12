@@ -442,17 +442,15 @@
 			"jar": "https://github.com/n3rddd/N3RD/raw/refs/heads/master/JN/N3RD/J/lem0911.jar"
 		},
 		{
-			"key": "番薯动漫",
-			"name": "番薯丨影视",
-			"type": 3,
+			"name": "霖栖｜影视",
 			"searchable": 1,
-			"api": "csp_AppGet",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
-			"ext": {
-				"url": "https://new.app.bytegooty.com",
-				"dataKey": "N4yj7l7xKxHF4*gz",
-				"dataIv": "N4yj7l7xKxHF4*gz"
-			}
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"key": "AppV7Llq",
+			"type": 3,
+			"api": "csp_AppV7Amns",
+			"jar": "https://gitlab.com/st7833232/recha/raw/main/jar/aowu-0901.jar"
 		}
 	],
 	"parses": [
