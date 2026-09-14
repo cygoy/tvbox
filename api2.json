@@ -374,13 +374,12 @@
 			"name": "巴士｜動漫",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
 			"filterable": 1,
-			"key": "csp_動漫巴士",
+			"key": "csp_Dm84",
 			"type": 3,
-			"api": "csp_XYQHiker",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
-			"ext": "https://gitlab.com/tenrecha/recha/raw/main/json/巴士动漫.json"
+			"api": "csp_Dm84",
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/FM/spider.jar",
+			"ext": "https://dm84.net"
 		},
 		{
 			"name": "囧途｜動漫",
