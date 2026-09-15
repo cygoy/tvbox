@@ -150,21 +150,15 @@
 			"ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/yf.txt|hagYExMdMkeWfemK|V122|okhttp/3.10.0"
 		},
 		{
-			"key": "秒看",
+			"key": "干饭",
 			"name": "秒看丨影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_AppGet",
-			"ext": {
-				"url": "https://mk1080.top/",
-				"dataKey": "c60d88b2eep53za8",
-				"dataIv": "c60d88b2eep53za8",
-				"token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c",
-				"ua": "okhttp/3.10.0"
-			},
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png"
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/FM/spider.jar",
+			"ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
 		},
 		{
 			"key": "顾我99",
