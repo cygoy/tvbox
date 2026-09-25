@@ -130,7 +130,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://github.com/cygoy/tvbox/raw/main/png/sun.png",
+			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xyqxbpq.jar",
 			"ext": {
 				"简介": "content_desc context clearfix\">&&</span>",
 				"分类url": "https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
