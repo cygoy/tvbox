@@ -443,6 +443,16 @@
 			"api": "csp_NewGrV2Amns",
 			"ext": "NewGrV2",
 			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/AW/spider.jar"
+		},
+		{
+			"key": "py_hongguo",
+			"name": "红果｜短剧",
+			"type": 3,
+			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/py/hongguo.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar"
 		}
 	],
 	"parses": [
