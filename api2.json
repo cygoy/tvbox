@@ -150,15 +150,20 @@
 			"ext": "https://github.com/cygoy/tvbox/raw/refs/heads/main/yf.txt|hagYExMdMkeWfemK|V122|okhttp/3.10.0"
 		},
 		{
-			"key": "干饭",
+			"key": "秒看",
 			"name": "秒看丨影视",
 			"type": 3,
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_AppGet",
-			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/FM/spider.jar",
-			"ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
+			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar",
+			"ext": {
+				"url": "https://mk1080.top/",
+				"dataKey": "c60d88b2eep53za8",
+				"dataIv": "c60d88b2eep53za8",
+				"token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"
+			}
 		},
 		{
 			"key": "顾我99",
@@ -251,8 +256,8 @@
 			"key": "云朵影视",
 			"name": "云朵｜影视",
 			"type": 3,
-			"jar": "https://github.com/cygoy/tvbox/raw/main/jar/xiaosa-0831.jar",
-			"api": "csp_App3Q",
+			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar",
+			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/py/yunduo.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -337,7 +342,7 @@
 			"name": "橘汁｜影视",
 			"type": 3,
 			"api": "csp_AppDrama",
-			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/NF/Yoursmile.jar",
+			"jar": "https://jihulab.com/yoursmile77/TVBox/raw/master/Yoursmile.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
