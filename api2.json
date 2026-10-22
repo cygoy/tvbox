@@ -451,13 +451,23 @@
 		},
 		{
 			"key": "py_hongguo",
-			"name": "红果｜短剧",
+			"name": "CX红果｜短剧",
 			"type": 3,
 			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/py/hongguo.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar"
+		},
+		{
+			"key": "红果短剧",
+			"name": "XS红果｜短剧",
+			"type": 3,
+			"api": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/py/红果短剧.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XS/spider.jar"
 		}
 	],
 	"parses": [
