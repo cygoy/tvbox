@@ -472,8 +472,8 @@
 		{
 			"key": "红果·短剧",
 			"name": "XM红果｜短剧",
-			"type": 4,
-			"api": "https://xn--4gqa586fw4c3sqzma.13145252.xyz/api/%F0%9F%8D%8E%E7%BA%A2%E6%9E%9C%C2%B7%E7%9F%AD%E5%89%A7?pwd=Pwd-e319946a36315dd9",
+			"type": 3,
+			"api": "csp_HongGuo",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
