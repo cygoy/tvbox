@@ -359,6 +359,16 @@
 			}
 		},
 		{
+			"key": "橘汁影视",
+			"name": "CX橘汁｜影视",
+			"type": 3,
+			"api": "https://github.com/cxelva/xpg/raw/refs/heads/main/py/橘汁.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://github.com/cxelva/xpg/raw/refs/heads/main/xpg.jar"
+		},
+		{
 			"key": "咕噜",
 			"name": "咕噜｜影视",
 			"type": 3,
