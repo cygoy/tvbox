@@ -374,22 +374,22 @@
 			"type": 3,
 			"api": "csp_JuzhiAmns",
 			"searchable": 1,
-			"quickSearch": 1,			
+			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "Juzhi",
 			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/AW/spider.jar"
 		},
-    {
-      "key": "juzi",
-      "name": "XHB橘汁｜影视",
-      "type": 3,
-      "api": "csp_HBJuZhiCAT",
-      "style": {
-        "type": "rect",
-        "ratio": 0.75
-      },
-      "jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XHB/spider.jar"
-    },
+		{
+			"key": "juzi",
+			"name": "XHB橘汁｜影视",
+			"type": 3,
+			"api": "csp_HBJuZhiCAT",
+			"style": {
+				"type": "rect",
+				"ratio": 0.75
+			},
+			"jar": "https://github.com/ls125781003/tbapi1/raw/refs/heads/main/XHB/spider.jar"
+		},
 		{
 			"key": "咕噜",
 			"name": "咕噜｜影视",
